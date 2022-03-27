@@ -1,4 +1,4 @@
-# Basics of Socket.io
+# Basics of Socket.io for chat applications
 <p align="center">
 <img src="https://github.com/thisismemukul/socket/blob/main/public/img/demo.gif" alt="Socket.io" title="Socket working clone show gif" width="500"/>
 </p>
