@@ -1,6 +1,6 @@
 # Basics of Socket.io for chat applications
 <p align="center">
-<img src="https://github.com/thisismemukul/socket/blob/main/public/img/demo.gif" alt="Socket.io" title="Socket working clone show gif" width="500"/>
+<img src="https://github.com/thisismemukul/socket/blob/main/client/public/demo.gif" alt="Socket.io" title="Socket working clone show gif" width="500"/>
 </p>
 Implementations of Socket.io 
 <h4>* Tech Stack used:</h4>
